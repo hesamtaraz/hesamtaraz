@@ -25,6 +25,7 @@ I believe great web experiences come from continuous learning, clean code, and a
 **Backend:**  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 **State Management:**  
 ![Redux](https://skillicons.dev/icons?i=redux)
@@ -34,9 +35,6 @@ I believe great web experiences come from continuous learning, clean code, and a
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Sass](https://skillicons.dev/icons?i=sass)
-
-**Database:**  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 **Connect with Me:**  
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:hesamtaraz@gmail.com)
