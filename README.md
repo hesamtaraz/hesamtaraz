@@ -22,9 +22,10 @@ I believe great web experiences come from continuous learning, clean code, and a
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vite](https://skillicons.dev/icons?i=vite)
 
-Backend:
-!Node.js
-!Express
+**Backend:**  
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
 **State Management:**  
 ![Redux](https://skillicons.dev/icons?i=redux)
 
