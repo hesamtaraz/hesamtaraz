@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-I'm [Hesam Taraz]، a MERN Stack Developer focused on building modern and responsive web applications.
+I'm Hesam Taraz ، a MERN Stack Developer focused on building modern and responsive web applications.
 
 ## About Me
 
